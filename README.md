@@ -1,15 +1,10 @@
 ### 📬 İletişim & Bağlantılar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/berat-fatih-kantar-395788362" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:beratfatihkantar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <a href="https://www.linkedin.com/in/berat-fatih-kantar-395788362" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:beratfatihkantar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
----
+
 
 ### 🛠️ Teknolojiler & Araçlar
 
