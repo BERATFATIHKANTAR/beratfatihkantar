@@ -35,9 +35,21 @@
 * 🤖 **Robotik & Gömülü Sistemler:** İnsansız kara araçları (İKA), Arduino/ESP32 prototipleme, sensör entegrasyonları ve mikrodenetleyici programlama.
 
 ---
+### 📬 İletişim & Bağlantılar
+
+<p align="left">
+  <a href="mailto:beratfatihkantar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/beratfatihkantar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ### 📊 GitHub İstatistikleri
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BERATFATIHKANTAR&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=beratfatihkantar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
