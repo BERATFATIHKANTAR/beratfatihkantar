@@ -1,8 +1,3 @@
-#  Merhaba, Ben Berat Fatih Kantar
-
-Bilgisayar Mühendisliği öğrencisi; mobil geliştirme, veri bilimi / makine öğrenimi, web sistemleri ve gömülü sistemler / robotik üzerine projeler üretiyorum.
-
----
 
 ### 🛠️ Teknolojiler & Araçlar
 
