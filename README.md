@@ -1,4 +1,17 @@
 
+### 📬 İletişim & Bağlantılar
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/berat-fatih-kantar-395788362" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:beratfatihkantar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
 ### 🛠️ Teknolojiler & Araçlar
 
 <p align="left">
@@ -29,22 +42,10 @@
 ---
 
 ### 📌 Odak Alanlarım
+* 🤖 **Robotik & Gömülü Sistemler:** İnsansız kara araçları (İKA), Arduino/ESP32 prototipleme, sensör entegrasyonları ve mikrodenetleyici programlama.
 * 📱 **Mobil Geliştirme:** React Native & Expo ile platformlar arası modern, reaktif uygulamalar.
 * 🧠 **Yapay Zeka & Veri Analitiği:** Python tabanlı makine öğrenimi modelleri, veri görselleştirme ve kestirimsel analizler.
 * 🌐 **Full-Stack Web Çözümleri:** PHP & MySQL ile veritabanı yönetim sistemleri ve modern arayüz mimarileri.
-* 🤖 **Robotik & Gömülü Sistemler:** İnsansız kara araçları (İKA), Arduino/ESP32 prototipleme, sensör entegrasyonları ve mikrodenetleyici programlama.
-
----
-### 📬 İletişim & Bağlantılar
-
-<p align="left">
-  <a href="mailto:beratfatihkantar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/beratfatihkantar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 ---
 
