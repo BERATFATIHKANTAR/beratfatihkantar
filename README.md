@@ -51,5 +51,5 @@
 ### 📊 GitHub İstatistikleri
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=beratfatihkantar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=beratfatihkantar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub İstatistikleri" />
 </p>
